@@ -4,16 +4,16 @@
 
     <div class="w3-row-padding" style="margin-top:64px">
         <div class="w3-col l3 m6">
-            <img src="/w3images/tech_mic.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="A microphone">
+            <img src="/home/img/projects/firefighters/img_one.png" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Control of resources of a firefighter's station.">
         </div>
         <div class="w3-col l3 m6">
-            <img src="/w3images/tech_phone.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="A phone">
+            <img src="/home/img/projects/firefighters/img_two.png" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Control of resources of a firefighter's station.">
         </div>
         <div class="w3-col l3 m6">
-            <img src="/w3images/tech_drone.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="A drone">
+            <img src="/home/img/projects/san_bernardino/san_bernardino_one.png" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Web page for San Bernardino school">
         </div>
         <div class="w3-col l3 m6">
-            <img src="/w3images/tech_sound.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Soundbox">
+            <img src="/home/img/projects/san_bernardino/san_bernardino_two.png" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Control of notes">
         </div>
     </div>
 
